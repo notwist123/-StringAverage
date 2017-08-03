@@ -1,0 +1,5 @@
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\StringAverage.csprojResolveAssemblyReference.cache
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\StringAverageKata.dll
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\StringAverageKata.pdb
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\StringAverageKata.dll
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\StringAverageKata.pdb
